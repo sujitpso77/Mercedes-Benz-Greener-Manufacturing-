@@ -13,3 +13,5 @@ If a car takes more time on testing then it will affect the price of the car bec
 The more time car spend during testing, the more CO2 will produce. If we compare CO2 emission of the whole world w.r.t Daimler’s testing machine then Daimler’s contribution of CO2 is less. If whole testing industries will adapt this then it will somehow decrease the CO2 emission on large scale.
 The objective of the Mercedes-Benz Greener Manufacturing competition is to develop a machine learning model that can accurately predict the time a car will spend on the test bench based on the vehicle configuration. The vehicle configuration is defined as the set of customization options and features selected for the particular vehicle. The motivation behind the problem is that an accurate model will be able to reduce the total time spent testing vehicles by allowing cars with similar testing configurations to be run successively.
 
+## Kaggle result
+![Screenshot 2020-09-30 083223](https://user-images.githubusercontent.com/39815040/94638425-95e62e00-02f7-11eb-8d71-94293df57ea9.png)
