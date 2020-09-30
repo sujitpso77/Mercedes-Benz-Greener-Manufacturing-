@@ -15,3 +15,5 @@ The objective of the Mercedes-Benz Greener Manufacturing competition is to devel
 
 ## Kaggle result
 ![Screenshot 2020-09-30 083223](https://user-images.githubusercontent.com/39815040/94638425-95e62e00-02f7-11eb-8d71-94293df57ea9.png)
+
+### My score was under top 1%
